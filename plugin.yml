@@ -1,1 +1,1 @@
-name: HealthUImain: HealthUI\Loaderversion: 0.0.1description: HealthUI for your server!
+name: HealthUImain: HealthUI\Loaderversion: 0.0.1description: HealthUI for your server!softdepend: FormAPI
