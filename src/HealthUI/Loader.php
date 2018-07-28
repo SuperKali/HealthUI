@@ -66,7 +66,7 @@ class Loader extends PluginBase implements Listener
             $this->getLogger()->info(self::PREFIX . "Enabled!");
         }
         $this->form = $this->getServer()->getPluginManager()->getPlugin('FormAPI');
-        $this->getServer()->getCommandMap()->register("HealtUI", new HealthCommand("healthui", $this));
+        $this->getServer()->getCommandMap()->register("HealthUI", new HealthCommand("healthui", $this));
     }
 
     /**
