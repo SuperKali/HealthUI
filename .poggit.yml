@@ -4,4 +4,5 @@ branches:
 projects:
   HealthUI:
     path: ""
+    icon: icon.png
 ...
