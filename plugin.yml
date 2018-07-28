@@ -1,5 +1,6 @@
 name: HealthUI
 main: HealthUI\Loader
-version: 0.0.2
+api: [3.0.0-ALPHA12, 3.0.0, 3.0.8, 3.1.0]
+version: 0.0.3
 description: HealthUI for your server!
 softdepend: FormAPI
