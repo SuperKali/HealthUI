@@ -2,5 +2,6 @@ name: HealthUI
 main: HealthUI\Loader
 api: 3.1.0
 version: 0.0.4
+author: SuperKali
 description: HealthUI for your server!
 softdepend: FormAPI
