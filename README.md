@@ -1,6 +1,5 @@
 # HealthUI Plugin for PMMP
 
-[![](https://poggit.pmmp.io/shield.state/HealthUI)](https://poggit.pmmp.io/p/HealthUI)
 [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/r/38059/HealthUI.phar)
 [![HitCount](http://hits.dwyl.io/SuperKali/HealthUI.svg)](http://hits.dwyl.io/SuperKali/HealthUI)
 
